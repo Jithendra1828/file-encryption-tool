@@ -1,0 +1,12 @@
+====================================
+        CONFIDENTIAL DOCUMENT
+====================================
+
+This is a secret message.
+Do not share this file without encryption.
+
+Sensitive Data:
+Account Number: 1234-5678-9012
+Password: MySecurePass@123
+
+End of document.
